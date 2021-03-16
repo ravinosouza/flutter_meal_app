@@ -6,27 +6,27 @@ import './models/meal.dart';
 const DUMMY_CATEGORIES = const [
   Category(
     id: 'c1',
-    title: 'Italian1',
+    title: 'Italian',
     color: Colors.purple,
   ),
   Category(
     id: 'c2',
-    title: 'Quick & Easy1',
+    title: 'Quick & Easy',
     color: Colors.red,
   ),
   Category(
     id: 'c3',
-    title: 'Hamburgers1',
+    title: 'Hamburgers',
     color: Colors.orange,
   ),
   Category(
     id: 'c4',
-    title: 'German1',
+    title: 'German',
     color: Colors.amber,
   ),
   Category(
     id: 'c5',
-    title: 'Light & Lovely1',
+    title: 'Light & Lovely',
     color: Colors.blue,
   ),
   Category(
