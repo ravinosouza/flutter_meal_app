@@ -19,7 +19,7 @@ class CategoriesScreen extends StatelessWidget {
             mainAxisSpacing: 20),
       ),
       appBar: AppBar(
-        title: Text("DeliMeals"),
+        title: Text("DeliMeals TestApp"),
       ),
     );
   }
